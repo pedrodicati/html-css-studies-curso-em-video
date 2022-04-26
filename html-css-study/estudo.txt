@@ -1,0 +1,32 @@
+C1A3
+	internet nasceu da nescessidade de criar um backup militar durante a guerra fria
+foi criado a ARPANET
+separado em blocos de tipos de utilizaçõa
+TCP/IP 
+modulação -> onda quadrada para onda senoidal(0 e 1 para frequencia de radio)4
+demodulação -> processo de modulação ao contrário
+servidor DNS - sistema de nome de dominio -> servidores especiais que fazem uma pesquisa pelo nome do site que você quer acessar
+
+DOMINIO E HOSPEDAGEM
+Dominio é nome que identifica seu site
+	nome único
+	pago
+	TLD's
+Hospedagem é onde você vai guardar seu site
+	espaço para armazenar os arquivos
+	pago mensalmente
+	espaço, memória, recursos
+
+URL's
+	aponta para um lugar
+	dentro da url tem partes
+	DOMÍNIO
+		dominio é o nome da onde está salvo
+		TLD's -> .com, .gov., .net
+		sub-dominio -> www
+	depois da / são os caminhos
+
+HTML E CSS
+Html é conteúdo (texto, imagem, vídeos, tabelas)
+css é design (cores, sombras, tamanhos, posicionamento) 
+javascript (interações, menus, animações, popups)
